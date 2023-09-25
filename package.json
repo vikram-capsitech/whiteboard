@@ -10,6 +10,9 @@
   "devDependencies": {
     "typescript": "^4.6.3"
   },
+  "publishConfig": {
+    "@vikram-capsitech:registry": "https://npm.pkg.github.com"
+  },
   "author": "vikram-rajpurohit",
   "license": "MIT"
 }
